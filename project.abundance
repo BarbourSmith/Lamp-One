@@ -142,8 +142,8 @@
     },
     {
       "atomType": "ExtractTag",
-      "x": 0.6534391534391535,
-      "y": 0.3983286908077995,
+      "x": 0.6507936507936508,
+      "y": 0.38718662952646243,
       "uniqueID": "01b4c584-16c7-4e77-9298-ef6b6d88c11e",
       "name": "Extract Tag",
       "tag": "toCut",
@@ -5975,6 +5975,11 @@
       "ap2Name": "geometry",
       "ap1ID": "d09b5559-dde0-4ad8-b220-453773499f12",
       "ap2ID": "01b4c584-16c7-4e77-9298-ef6b6d88c11e"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "d09b5559-dde0-4ad8-b220-453773499f12",
+      "ap2ID": "62ff65ad-7b00-4338-828f-e7c5abcbfd2a"
     },
     {
       "ap2Name": "Shape 1",
